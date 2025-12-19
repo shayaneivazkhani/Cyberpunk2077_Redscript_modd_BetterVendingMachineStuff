@@ -13,7 +13,7 @@ Mod works regardless if you have cyberpunk 2077 or cyberpunk 2077:Phantom Libert
 
 Only make sure you have correctly installed redscript. I followed the guide from: 
    
-    https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/modding-on-macos
+   https://wiki.redmodding.org/cyberpunk-2077-modding/for-mod-users/users-modding-cyberpunk-2077/modding-on-macos
 
 My downloaded framework version is:
 

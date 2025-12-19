@@ -1,4 +1,5 @@
-# Cyberpunk2077_Redscript_modd_BetterVendingMachineStuff
+# BetterVendingMachineStuff
+## Cyberpunk2077 Redscript modd 
 
 This is a mod i made for myself as i run Cyberpunk 2077 from Steam on macOS Tahoe 26 on M1. 
 As i could not get CET installed then I started looking for a quick solution for macOS version 

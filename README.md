@@ -24,6 +24,6 @@ My downloaded framework version is:
 
 If you have correctly installed redscript then all you need to do is to place this mod file in
 
-﻿ ﻿  `~/Library/Application Support/Steam/steamapps/common/Cyberpunk\ 2077/r6/scriptsand`  
+﻿ ﻿  `~/Library/Application Support/Steam/steamapps/common/Cyberpunk\ 2077/r6/scripts`  
      
-then launch the app as stated in the guide.
+and then launch the app as stated in the guide.
